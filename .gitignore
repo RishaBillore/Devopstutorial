@@ -2,3 +2,5 @@
 *.net
 
 !five.py
+
+[aeiou]*.txt
