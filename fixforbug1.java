@@ -1,1 +1,1 @@
-Fixed bug1 file
+Fixed bug1 file written on bug1 
